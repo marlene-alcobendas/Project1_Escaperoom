@@ -1,0 +1,14 @@
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Ignorar configuraciones temporales
+.env
+.DS_Store
+
+# Ignorar carpetas de entorno virtual
+venv/
+.env/
